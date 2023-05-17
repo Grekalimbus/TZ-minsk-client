@@ -58,7 +58,7 @@ First, run the development server: *npm run dev* or *yarn dev*
     - Canel
     - Accepted 
 
-![alt text](https://i.postimg.cc/mgMxSzRh/change-Comment.png)
+![alt text](https://ibb.co/VL9Xwwm)
 <br />  
 
     * Todo change mode
