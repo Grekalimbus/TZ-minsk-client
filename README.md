@@ -46,24 +46,19 @@ First, run the development server: *npm run dev* or *yarn dev*
 
 ## *_Profile/id_* 
 <br />  
-<br />  
 
     - Adaptive page 
 
-![Profile](https://i.postimg.cc/dVRdd671/Adaptiv.png)
+<img src="https://i.postimg.cc/dVRdd671/Adaptiv.png">
 
 <br />  
-<br />  
-
     Change todo mode
     - Delete todo 
     - Canel
-    - Accepted   
+    - Accepted 
 
-![Profile](https://i.postimg.cc/mgMxSzRh/change-Comment.png)
+<img src="https://i.postimg.cc/mgMxSzRh/change-Comment.png">
 <br />  
-<br />  
-
     * Todo change mode
     - Delete todo 
     - Canel
