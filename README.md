@@ -49,7 +49,7 @@ First, run the development server: *npm run dev* or *yarn dev*
 
     - Adaptive page 
 
-<img src="https://i.postimg.cc/dVRdd671/Adaptiv.png">
+![alt text](https://i.postimg.cc/dVRdd671/Adaptiv.png)
 
 <br />  
 
@@ -58,7 +58,7 @@ First, run the development server: *npm run dev* or *yarn dev*
     - Canel
     - Accepted 
 
-<img src="https://i.postimg.cc/mgMxSzRh/change-Comment.png">
+![alt text](https://i.postimg.cc/mgMxSzRh/change-Comment.png)
 <br />  
 
     * Todo change mode
