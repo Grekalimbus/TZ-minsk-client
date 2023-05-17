@@ -52,6 +52,7 @@ First, run the development server: *npm run dev* or *yarn dev*
 <img src="https://i.postimg.cc/dVRdd671/Adaptiv.png">
 
 <br />  
+
     Change todo mode
     - Delete todo 
     - Canel
@@ -59,18 +60,19 @@ First, run the development server: *npm run dev* or *yarn dev*
 
 <img src="https://i.postimg.cc/mgMxSzRh/change-Comment.png">
 <br />  
+
     * Todo change mode
     - Delete todo 
     - Canel
     - Accepted
 
-![Profile](https://i.postimg.cc/NfbhCqrv/changetodo.png)
+<!-- ![Profile](https://i.postimg.cc/NfbhCqrv/changetodo.png)
 
 ![Profile](https://i.postimg.cc/dVRdd671/Adaptiv.png)
 ![Profile](https://i.postimg.cc/dVRdd671/Adaptiv.png)
 ![Profile](https://i.postimg.cc/dVRdd671/Adaptiv.png)
 ![Profile](https://i.postimg.cc/dVRdd671/Adaptiv.png)
-![Profile](https://i.postimg.cc/dVRdd671/Adaptiv.png)
+![Profile](https://i.postimg.cc/dVRdd671/Adaptiv.png) -->
 
 
     
