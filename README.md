@@ -14,11 +14,6 @@ First, run the development server: *npm run dev* or *yarn dev*
 
 <br />
 
-<br />
-
-
-
-
 ### Used tehnolohy
 A plus marked the technologies that I learned while working on the project
 
@@ -59,10 +54,14 @@ A plus marked the technologies that I learned while working on the project
     9.olga@mail.ru
 ```
 
-## Code examples
+
+<br />
+
+## [Click > Backend repository](https://github.com/Grekalimbus/TZ-minsk-server) 
 
 <br />  
 
+## Code examples
 ### Redux logic
 store/usersSlice.ts
 
