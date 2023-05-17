@@ -14,6 +14,12 @@ First, run the development server: *npm run dev* or *yarn dev*
 
 <br />
 
+## [Click > Backend repository](https://github.com/Grekalimbus/TZ-minsk-server) 
+
+<br />  
+
+<br />
+
 ### Used tehnolohy
 A plus marked the technologies that I learned while working on the project
 
@@ -53,13 +59,6 @@ A plus marked the technologies that I learned while working on the project
     8.liza@mail.ru
     9.olga@mail.ru
 ```
-
-
-<br />
-
-## [Click > Backend repository](https://github.com/Grekalimbus/TZ-minsk-server) 
-
-<br />  
 
 ## Code examples
 ### Redux logic
