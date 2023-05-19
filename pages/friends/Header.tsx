@@ -91,7 +91,7 @@ const Header: FC<Props> = ({ friends, userTag, handleChangeUserTag, handleChange
         Followers ({friends?.followers?.length})
       </Button>
       <Button
-        onClick={(e) => [handleChangeActive(e), setActive('2')]}
+        onClick={(e) => [handleChangeActive(e), setActive('3')]}
         id="3"
         style={getStylesButton(active, '3')}
       >
