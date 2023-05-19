@@ -93,7 +93,7 @@ const Header: FC<Props> = ({ friends, userTag, handleChangeUserTag, handleChange
       <Button
         onClick={(e) => [handleChangeActive(e), setActive('2')]}
         id="3"
-        style={getStylesButton(active, '2')}
+        style={getStylesButton(active, '3')}
       >
         Following ({friends?.following?.length})
       </Button>
