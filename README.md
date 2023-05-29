@@ -65,14 +65,6 @@ A plus marked the technologies that I learned while working on the project
     9.olga@mail.ru
 ```
 
-## Presentation
-![Image1](https://i.postimg.cc/0NMwDLy5/image.png)
-![Image1](https://i.postimg.cc/k4PB8GHw/image.png)
-![Image1](https://i.postimg.cc/tR5YZXNt/image.png)
-![Image1](https://i.postimg.cc/QC486df2/image.png)
-![Image1](https://i.postimg.cc/L8Z9TRLW/image.png)
-<br />
-
 ## Code examples
 ### Redux logic
 [store/usersSlice.ts](https://github.com/Grekalimbus/TZ-minsk-client/blob/main/store/usersSlice.ts)
