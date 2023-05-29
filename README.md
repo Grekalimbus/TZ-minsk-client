@@ -66,11 +66,11 @@ A plus marked the technologies that I learned while working on the project
 ```
 
 ## Presentation
-![Image1](https://i.postimg.cc/G21RS2yh/image.png)
-![Image1](https://i.postimg.cc/vHTJh9Nt/image.png)
-![Image1](https://i.postimg.cc/QMXjNvHX/create-Todo-Page.png)
-![Image1](https://i.postimg.cc/nrC34Khs/image.png)
-![Image1](https://i.postimg.cc/c4fbXmcY/image.png)
+![Image1](https://i.postimg.cc/0NMwDLy5/image.png)
+![Image1](https://i.postimg.cc/k4PB8GHw/image.png)
+![Image1](https://i.postimg.cc/tR5YZXNt/image.png)
+![Image1](https://i.postimg.cc/QC486df2/image.png)
+![Image1](https://i.postimg.cc/L8Z9TRLW/image.png)
 <br />
 
 ## Code examples
