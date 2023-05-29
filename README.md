@@ -1,23 +1,28 @@
 # **Frontend** 
-## Getting Started
-First, run the development server: *npm run dev* or *yarn dev*
 
-    npm run dev
-
-<br />
-    
-    *yarn dev*
-
-    
+## The project can be run locally
+    1. Clone this repository and server repository
+    2. Go to client and server and install dependencies with "npm install"
+    3. In the root server run "npm run start:dev"
+    4. In the folder client run "npm run dev"
+<br />    
 
 ## [Click > link deploy project](http://5.53.125.173/) 
-
 <br />
 
 ## [Click > Backend repository](https://github.com/Grekalimbus/TZ-minsk-server) 
-
 <br />  
 
+## About this project
+<br />
+
+## RU
+Это небольшая социальная сеть, в которой пользователи могут создавать списки добрых дел, получить за них рейтинг, изменять/удалять их. Пользователи могут добавлять в друзья других пользователей и смотреть их списки добрых дел. Есть возможность оставлять комментарии. Стили в главном компоненте (Profile) отображаются динамически в зависимости от разных условий. Верстка адаптивная. 
+Мне было интересно поработать над этим проектом и выучить новые технологии а также реализовать кейсы, которые я еще не делал.
+
+## ENG
+This is a small social network where users can create lists of good deeds, get a rating for them, change/delete them. Users can add other users as friends and see their lists of good deeds. It is possible to leave comments. Styles in the main component (Profile) are displayed dynamically depending on different conditions. The layout is adaptive.
+It was interesting for me to work on this project and learn new technologies and also implement cases that I have not done yet.
 <br />
 
 ### Used tehnolohy
@@ -60,9 +65,17 @@ A plus marked the technologies that I learned while working on the project
     9.olga@mail.ru
 ```
 
+## Presentation
+![Image1](https://i.postimg.cc/G21RS2yh/image.png)
+![Image1](https://i.postimg.cc/vHTJh9Nt/image.png)
+![Image1](https://i.postimg.cc/QMXjNvHX/create-Todo-Page.png)
+![Image1](https://i.postimg.cc/nrC34Khs/image.png)
+![Image1](https://i.postimg.cc/c4fbXmcY/image.png)
+<br />
+
 ## Code examples
 ### Redux logic
-store/usersSlice.ts
+[store/usersSlice.ts](https://github.com/Grekalimbus/TZ-minsk-client/blob/main/store/usersSlice.ts)
 
 ```js
 import { UserType } from '@/types/user';
@@ -111,7 +124,7 @@ export default usersSlice.reducer;
 <br />  
 
 ### Services logic
-services/users.service.ts
+[services/users.service.ts](https://github.com/Grekalimbus/TZ-minsk-client/blob/main/services/users.service.ts)
 
 ```js
 class usersService{
@@ -152,7 +165,7 @@ export default new usersService()
 
 ### Custom hooks logic
 
-hooks/useAllUsers.tsx
+[hooks/useAllUsers.tsx](https://github.com/Grekalimbus/TZ-minsk-client/blob/main/hooks/useAllUsers.tsx)
 
 ```js
 const useAllUsers = () => {
@@ -173,7 +186,7 @@ export default useAllUsers;
 
 ### Logic utils
 
-hooks/utils/transformUser.ts
+[hooks/utils/transformUser.ts](https://github.com/Grekalimbus/TZ-minsk-client/blob/main/hooks/utils/transformUser.ts)
 
 ```js
 export const transformUsers = (userArray: UserType[] | null, friendArray: FriendType []|[], arrayTodos: TodoType[] | []): UserInfoType[] | null => {
@@ -195,7 +208,7 @@ export const transformUsers = (userArray: UserType[] | null, friendArray: Friend
 
 ### Components logic
 
-pages/profile/[profileID].tsx
+[pages/profile/[profileID].tsx](https://github.com/Grekalimbus/TZ-minsk-client/blob/main/pages/profile/%5BprofileID%5D.tsx)
 
 ```js
 const Profile = () => {
